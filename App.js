@@ -20,7 +20,7 @@ class App extends Component {
          onPress={this.change}
         >
          <Text style={{color: 'white',
-          fontSize: 20}}> klik untuk nama Lengkap</Text>
+          fontSize: 15}}> Nama Lengkap</Text>
         </TouchableOpacity>
         <View>
           <Text>
